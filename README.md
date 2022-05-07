@@ -22,24 +22,25 @@ This repository contains scripts, guides, etc written by an individual with NO a
         - The file explorer (dolphin) is the third shortcut by default on the toolbar. This accesses the file structure for the entire system like windows explorer
         - The Discover Store is a host of Flatpak softwares that can be installed on Steam OS 3 without any extra work needed in most cases.
             - Flatpak software is the recommeneded way to install tools on the Steam Deck under Arch Linux. However some tools I use are not Flatpak available yet so I will also use pacman and snap to fill in the gaps when nessecary.
-            - Recommened Flatpak Software for Programmers (biased for Micro Controllers, Java, C, C++ and Python)
-                - Thonny IDE
-                - Visual Studio Code
-                - Android Studio (Not Tested by me personally yet)
-                - QT Creator
-                - Arduino IDE
-                - Eclipse IDE for Java Developers
-                - Sublime Text
-                - Github Desktop
-                - MarkText
-                - FileZilla
-                - 
-            - Recommened Flatpak Software for Engineers (biased for Micro Controllers, CAD, PCBs and CNC/3D Printing)
-                - Thonny IDE
-                - Arduino IDE
-                - Sublime Text
-                - Fritzing
-                - LibrePCB
-                - Raspberry Pi Imager
-                - OpenSCAD
-                - Prusa Slicer (Testing this week on a prusa mini!)
+            
+**Recommened Flatpak Software (biased for Micro Controllers, Java, C, C++, Python, CAD, CNC/3D Printing)**
+
+| Software Title       | Category                | Description                                                                                                                                                       | Flatpak | Pacman | Snap | Tested by Me |
+|----------------------|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|--------|------|--------------|
+| MarkText             | Programming             | Markdown Editor Tool. All the knowledge here is typed up in MarkDown. I have yet to test this software myself                                                     | ✔️       |        |      | ❌            |
+| Visual Studio Code   | Programming             | IDE for many languages with extension support                                                                                                                     | ✔️       |        |      | ✔️            |
+| Android Studio       | Programming             | IDE for Android App Creation.  I have tested for opening, but not running a test project yet                                                                      | ✔️       |        |      | ❌            |
+| QT Creator           | Programming             | GUI creator tool for QT applications                                                                                                                              | ✔️       |        |      | ❌            |
+| FileZilla            | Programming             | FTP tool for remote file transfer. Highly recommended for moving data to and from network devices like Steam Deck to a Desktop PC or Laptop on your local network | ✔️       |        |      | ✔️            |
+| Eclipse IDE for Java | Programming             | IDE for Java programming. Have tested with Swing, but not Java FX yet                                                                                             | ✔️       |        |      | ✔️            |
+| Sublime Text         | Programming             | Advanced notepad tool with programmer friendly features                                                                                                           | ✔️       |        |      | ✔️            |
+| Github Desktop       | Programming             | VCS and Graphical GIT tool. Works in conjunction with a GitHub account and can be used to pull this repository!                                                   | ✔️       |        |      | ✔️            |
+| Arduino IDE          | Programming/Engineering | IDE for microcontrollers like Arduino, ESP8266, ESP32, Pi Pico, Etc.                                                                                              | ✔️       |        |      | ✔️            |
+| Thonny IDE           | Programming/Engineering | IDE for Python, Micropython and Circuit Python                                                                                                                    | ✔️       |        |      | ❌            |
+| Fritzing             | Engineering             | Breadboard, Schematic and PCB tool for Arduino and other components                                                                                               | ✔️       |        |      | ✔️            |
+| LibrePCB             | Engineering             | PCB creation tool                                                                                                                                                 | ✔️       |        |      | ❌            |
+| Raspberry Pi Imager  | Engineering             | SD card image creator for Raspberry Pi SBCs                                                                                                                       | ✔️       |        |      | ✔️            |
+| OpenSCAD             | Engineering             | Open Source Parametric CAD software                                                                                                                               | ✔️       |        |      | ❌            |
+| FreeCad              | Engineering             | Free Cad software                                                                                                                                                 | ✔️       |        |      | ❌            |
+| KiCad                | Engineering             | EDA and PCB design tool                                                                                                                                           | ✔️       |        |      | ❌            |
+| Prusa Slicer         | Engineering             | 3D printing slicing tool                                                                                                                                          | ✔️       |        |      | ❌            |
