@@ -23,7 +23,7 @@ This repository contains scripts, guides, etc written by an individual with NO a
         - The Discover Store is a host of Flatpak softwares that can be installed on Steam OS 3 without any extra work needed in most cases.
             - Flatpak software is the recommeneded way to install tools on the Steam Deck under Arch Linux. However some tools I use are not Flatpak available yet so I will also use pacman and snap to fill in the gaps when nessecary.
             
-**Recommened Flatpak Software (biased for Micro Controllers, Java, C, C++, Python, CAD, CNC/3D Printing)**
+**Recommened Software (biased for Micro Controllers, Java, C, C++, Python, CAD, CNC/3D Printing)**
 
 | Software Title       | Category                | Description                                                                                                                                                       | Flatpak | Pacman | Snap | Tested by Me |
 |----------------------|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|--------|------|--------------|
