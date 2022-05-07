@@ -2,7 +2,7 @@
 Knowledge Repository for Steam Deck modifications, setup guides and custom hacks for engineering and programming.
 
 Warnings and Other Such Statements:
-This repository contains scripts, guides, etc written by an individual with NO affiliation with Steam. This is just a repository for my ideas and projects that involve hacking the steam deck for Engineering and Programming related tasks. Use this repositoy at your own risk. The super duper handy ![https://help.steampowered.com/en/faqs/view/1B71-EDF2-EB6D-2BB3](Valve Re-Imaging Guide) can start everything fresh and new!
+This repository contains scripts, guides, etc written by an individual with NO affiliation with Steam. This is just a repository for my ideas and projects that involve hacking the steam deck for Engineering and Programming related tasks. Use this repositoy at your own risk. The super duper handy [Valve Reimaging Guide](https://help.steampowered.com/en/faqs/view/1B71-EDF2-EB6D-2BB3) can start everything fresh and new!
 
 # I. Initial Setup Guide
 1. Starting from a fresh install of SteamOS 3 you need to do a basic setup for Steam
@@ -10,7 +10,7 @@ This repository contains scripts, guides, etc written by an individual with NO a
         - Note if the Keyboard does not show up when you click a text field you can press the Steam Button (lower left side) + the X button (left button on the right side of the controller) to pull up the on screen keyboard.
     - The Steam Deck will do updates, this takes a bit. it stalled for me after downloading completed. Hitting the B button and going back to my wifi network then hitting the A button for continue it started the installation process skipping the hold up.
     - Login to your steam profile
-    - Go through the tour and explore the gaming interface. The ![https://store.steampowered.com/app/1902490/Aperture_Desk_Job/](Aperture Desk Job Game) does a great "Job" of teaching you the basic controls of the Steam Deck and I highly recommend it for newbies or Portal fans!
+    - Go through the tour and explore the gaming interface. The [Aperture Desk Job Game](https://store.steampowered.com/app/1902490/Aperture_Desk_Job/) does a great "Job" of teaching you the basic controls of the Steam Deck and I highly recommend it for newbies or Portal fans!
 2. When ready enter Desktop mode
     - Hold down the power button and a new menu will drop down to restart, shutdown, sleep the machine or enter desktop mode.
     - Select enter Desktop Mode
