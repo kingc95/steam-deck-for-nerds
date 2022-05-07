@@ -1,5 +1,5 @@
 # steam-deck-for-nerds
-Knowledge Repository for Steam Deck modifications, setup guides and custom hacks for engineering and programming.
+Knowledge Repository for Steam Deck modifications, setup guides and custom hacks for engineering, programming and emulation
 
 Warnings and Other Such Statements:
 This repository contains scripts, guides, etc written by an individual with NO affiliation with Steam. This is just a repository for my ideas and projects that involve hacking the steam deck for Engineering and Programming related tasks. Use this repositoy at your own risk. The super duper handy [Valve Reimaging Guide](https://help.steampowered.com/en/faqs/view/1B71-EDF2-EB6D-2BB3) can start everything fresh and new!
